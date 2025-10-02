@@ -1,0 +1,5 @@
+pip~=24.0
+pillow~=11.3.0
+packaging~=25.0
+pyparsing~=3.2.4
+matplotlib~=3.10.6
