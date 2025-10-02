@@ -183,6 +183,7 @@ def list_files_with_depth(directory, indent=0, max_depth=0):
 
 
 <image src="./fibonacci_comparison.png">
+<image src="./out.png">
 
 ```markdown
 # Контрольные вопросы
