@@ -183,9 +183,8 @@ def list_files_with_depth(directory, indent=0, max_depth=0):
 
 
 <image src="./fibonacci_comparison.png">
-
-```markdown
 # Контрольные вопросы
+```markdown
 
 ## 1. Что такое базовый случай и рекурсивный шаг в рекурсивной функции? Почему отсутствие базового случая приводит к ошибке?
 
